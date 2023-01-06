@@ -17,6 +17,8 @@
     padding: 100px 170px;
     text-align: center;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url(../images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .header-title {
