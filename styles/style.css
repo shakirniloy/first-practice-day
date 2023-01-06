@@ -165,3 +165,21 @@
     padding: 10px;
     color: white;
 }
+
+/* footer start */
+.footer {
+    background-color: rgb(37, 30, 30);
+    text-align: center;
+    padding: 20px 0
+}
+
+.footer > h3 {
+    color: tomato;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Miniver', cursive;
+}
+
+.footer > p {
+    color: white;
+}
